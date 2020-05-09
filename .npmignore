@@ -1,0 +1,11 @@
+test/
+infra/
+TestResults/
+mocha.opts
+.nycrc
+.eslintrc.json
+.editorconfig
+.nyc_output
+appSettings.*.json
+.eslintignore
+azure-pipelines.yml
