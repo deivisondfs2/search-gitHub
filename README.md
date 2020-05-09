@@ -9,6 +9,11 @@ It's a node app with express.
 - `npm test` - run a test script
 - `npm start or node server.js` - the start the application.
 
+### Endpoints
+
+- `http://localhost:3001/user/info/deivisondfs2` - Get user details from GitHub
+- `http://localhost:3001/user/info/deivisondfs2/repo` - Get all repositories from user on GitHub
+
 ## License
 
 [MIT]
