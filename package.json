@@ -20,7 +20,7 @@
     "express": "~4.16.1",
     "helmet": "^3.21.2",
     "http-errors-handle": "^1.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "method-override": "~2.3.10",
     "morgan": "^1.9.1",
     "nconf": "^0.10.0",
