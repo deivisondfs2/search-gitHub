@@ -17,7 +17,7 @@
     "body-parser": "~1.18.2",
     "cors": "^2.8.5",
     "debug": "~3.1.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "helmet": "^3.21.2",
     "http-errors-handle": "^1.0.4",
     "lodash": "^4.17.15",
